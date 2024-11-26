@@ -3,4 +3,4 @@
 - I'm new to the Android world 📱
   
 </h4>
-![](https://komarev.com/ghpvc/?username=kaga-kokot&color=blue&style=for-the-windows)
+![](https://komarev.com/ghpvc/?username=KAGA-KOKO&color=blue&style=for-the-badge)
