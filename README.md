@@ -1,6 +1,7 @@
 # Welcome to my github
 <h4>Hi there, I'm BANRI! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px">
-- I'm new to the Android world 📱</h4>
+
+ - I'm new to the Android world 📱</h4>
 
 ### koko GitHub Analytics
 ![koko](https://github-readme-stats-eight-theta.vercel.app/api?username=KAGA-KOKO&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true)
